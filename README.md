@@ -58,7 +58,6 @@ Frontend will run on http://localhost:5173
 ## Usage
 
 ### Admin Login
-- Default credentials: `admin` / `admin123`
 - Upload question and answer PDFs
 - Monitor candidate sessions and results
 
